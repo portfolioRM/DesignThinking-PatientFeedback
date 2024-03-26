@@ -18,7 +18,7 @@ I choose this topic because I have both heard stories from friends and experienc
 ## Files Uploaded:
 I have included a sample of the research for this project.
 1.	*"RashmiMariyappa_1_DesignThinking_ThePitch"*<br>
-This was the final pitch presentation summarizing our findings and next steps.
+This was the final pitch presentation summarizing our findings and next steps.<br><br>
 2.	*"RashmiMariyappa_2_DesignThinking_Empathy"*<br>
 This is the documentation of my patient empathy experience done as a customer journey map.<br><br>
 3.	*"RashmiMariyappa_3_DesignThinking_Ideation"*<br>
