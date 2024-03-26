@@ -17,7 +17,7 @@ I choose this topic because I have both heard stories from friends and experienc
 <br><br>
 ## Files Uploaded:
 I have included a sample of the research for this project. 
-1.	*"RashmiMariyappa__1_DesignThinking_Empathy"*<br>
+1.	*"RashmiMariyappa_1_DesignThinking_Empathy"*<br>
 This is the documentation of my patient empathy experience done as a customer journey map.<br><br>
 2.	*"RashmiMariyappa_2_DesignThinking_Ideation"*<br>
 These are presentation images that document the ideation session.<br><br>
