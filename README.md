@@ -17,12 +17,12 @@ I choose this topic because I have both heard stories from friends and experienc
 <br><br>
 ## Files Uploaded:
 I have included a sample of the research for this project. 
-1.	*"RashmiMariyappa__1_DesignThinkingPatient_Empathy"*<br>
+1.	*"RashmiMariyappa__1_DesignThinking_Empathy"*<br>
 This is the documentation of my patient empathy experience done as a customer journey map.<br><br>
-2.	*"RashmiMariyappa_2_DesignThinkingPatient_Ideation"*<br>
+2.	*"RashmiMariyappa_2_DesignThinking_Ideation"*<br>
 These are presentation images that document the ideation session.<br><br>
-3.	*"RashmiMariyappa_3_DesignThinkingPatient_Iteration"*<br>
+3.	*"RashmiMariyappa_3_DesignThinking_Iteration"*<br>
 These are presentation images that lay out the iterative next steps for prototyping, including evaluating the original prototypes through a desirability, feasibility, and viability lens.<br><br>
-4.	*"RashmiMariyappa_4_DesignThinkingPatient_ThePitch"*<br>
+4.	*"RashmiMariyappa_4_DesignThinking_ThePitch"*<br>
 This was the final pitch presentation summarizing our findings and next steps.
 
